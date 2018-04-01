@@ -1,1 +1,2 @@
-# ncku_Cplus_lab2
+make
+./lab2
